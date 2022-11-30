@@ -1,0 +1,385 @@
+acmru v.20080324
+- Gets contents of user's ACMru key
+
+----------------------------------------
+adoberdr v.20120716
+(NTUSER.DAT) Gets user's Adobe Reader cRecentFiles values
+
+----------------------------------------
+aim v.20080325
+(NTUSER.DAT) Gets info from the AOL Instant Messenger (not AIM) install
+
+----------------------------------------
+aports v.20110204
+(NTUSER.DAT) Extracts the install path for SmartLine Inc. Active Ports.
+
+----------------------------------------
+appcompatflags v.20130930
+(NTUSER.DAT, Software) Extracts AppCompatFlags for Windows.
+
+----------------------------------------
+applets v.20140723
+(NTUSER.DAT) Gets contents of user's Applets key
+
+----------------------------------------
+----------------------------------------
+----------------------------------------
+arpcache v.20090413
+(NTUSER.DAT) Retrieves CurrentVersion\App Management\ARPCache entries
+
+----------------------------------------
+autoendtasks v.20081128
+(NTUSER.DAT) Automatically end a non-responsive task
+
+----------------------------------------
+autorun v.20081212
+(NTUSER.DAT) Gets autorun settings
+
+----------------------------------------
+bitbucket_user v.20091020
+(NTUSER.DAT) TEST - Get user BitBucket values
+
+----------------------------------------
+brisv v.20130429
+(NTUSER.DAT) Detect artifacts of a Troj.Brisv.A infection
+
+----------------------------------------
+cain v.20110204
+(NTUSER.DAT) Extracts details for Cain & Abel by oxid.it
+
+----------------------------------------
+ccleaner v.20120128
+(NTUSER.DAT) Gets User's CCleaner Settings
+
+----------------------------------------
+clampi v.20091019
+(NTUSER.DAT) TEST - Checks for keys set by Trojan.Clampi PROT module
+
+----------------------------------------
+clampitm v.20100624
+(NTUSER.DAT) Checks for IOCs for Clampi (per Trend Micro)
+
+----------------------------------------
+----------------------------------------
+----------------------------------------
+compdesc v.20080324
+(NTUSER.DAT) Gets contents of user's ComputerDescriptions key
+
+----------------------------------------
+controlpanel v.20080428
+(NTUSER.DAT) Look for RecentTask* values in ControlPanel key (Vista)
+
+----------------------------------------
+cpldontload v.20100116
+(NTUSER.DAT) Gets contents of user's Control Panel don't load key
+
+----------------------------------------
+decaf v.20110210
+(NTUSER.DAT) Extracts the EULA value for DECAF.
+
+----------------------------------------
+dependency_walker v.20110204
+(NTUSER.DAT) Extracts Recent File List for Dependency Walker.
+
+----------------------------------------
+domains v.20100116
+(NTUSER.DAT) Gets contents Internet Settings\ZoneMap\Domains key
+
+----------------------------------------
+environment v.20110204
+(NTUSER.DAT) Extracts user's Environment paths from NTUSER.DAT
+
+----------------------------------------
+fileexts v.20080818
+(NTUSER.DAT) Get user FileExts values
+
+----------------------------------------
+filehistory v.20120620
+(NTUSER.DAT) Gets filehistory settings
+
+----------------------------------------
+gthist v.20100218
+(NTUSER.DAT) Gets Google Toolbar Search History
+
+----------------------------------------
+gtwhitelist v.20100218
+(NTUSER.DAT) Gets Google Toolbar whitelist values
+
+----------------------------------------
+haven_and_hearth v.20110204
+(NTUSER.DAT) Extracts the username and savedtoken for Haven & Hearth.
+
+----------------------------------------
+ie_settings v.20130731
+(NTUSER.DAT) Gets important user IE settings
+
+----------------------------------------
+internet_explorer_cu v.20120528
+(NTUSER.DAT) Get HKCU information on Internet Explorer
+
+----------------------------------------
+internet_settings_cu v.20120528
+(NTUSER.DAT) Get HKCU information on Internet Settings
+
+----------------------------------------
+javafx v.20110322
+(NTUSER.DAT) Gets contents of user's JavaFX key
+
+----------------------------------------
+----------------------------------------
+liveContactsGUID v.20110221
+(NTUSER.DAT) Gets user Windows Live Messenger GUIDs
+
+----------------------------------------
+load v.20100811
+(NTUSER.DAT) Gets load and run values from user hive
+
+----------------------------------------
+logonusername v.20080324
+(NTUSER.DAT) Get user's Logon User Name value
+
+----------------------------------------
+mmc v.20080324
+(NTUSER.DAT) Get contents of user's MMC\Recent File List key
+
+----------------------------------------
+mndmru v.20080324
+(NTUSER.DAT) Get contents of user's Map Network Drive MRU
+
+----------------------------------------
+mp2 v.20120330
+(NTUSER.DAT) Gets user's MountPoints2 key contents
+
+----------------------------------------
+mpmru v.20080324
+(NTUSER.DAT) Gets user's Media Player RecentFileList values
+
+----------------------------------------
+mspaper v.20080324
+(NTUSER.DAT) Gets images listed in user's MSPaper key
+
+----------------------------------------
+muicache v.20130425
+(NTUSER.DAT,USRCLASS.DAT) Gets EXEs from user's MUICache key
+
+----------------------------------------
+nero v.20100218
+(NTUSER.DAT) Gets contents of Ahead\Nero Recent File List subkeys
+
+----------------------------------------
+netassist v.20110427
+(NTUSER.DAT) Check for Firefox Extensions.
+
+----------------------------------------
+odysseus v.20110202
+(NTUSER.DAT) Extract registry keys for Odysseus by bindshell.net.
+
+----------------------------------------
+officedocs v.20080324
+(NTUSER.DAT) Gets contents of user's Office doc MRU keys
+
+----------------------------------------
+officedocs2010 v.2011090
+(NTUSER.DAT) Gets user's Office 2010 doc MRU values
+
+----------------------------------------
+oisc v.20091125
+(NTUSER.DAT) Gets contents of user's Office Internet Server Cache
+
+----------------------------------------
+----------------------------------------
+outlook v.20100218
+(NTUSER.DAT) Gets user's Outlook settings
+
+----------------------------------------
+policies_u v.20091021
+(NTUSER.DAT) Get values from the user's Policies key
+
+----------------------------------------
+printermru v.20091125
+(NTUSER.DAT) Gets user's Printer Wizard MRU listing
+
+----------------------------------------
+printers v.20090223
+(NTUSER.DAT) Get user's printers
+
+----------------------------------------
+privoxy v.20110204
+(NTUSER.DAT) Extracts the install path for Privoxy.
+
+----------------------------------------
+proxysettings v.20081224
+(NTUSER.DAT) Gets contents of user's Proxy Settings
+
+----------------------------------------
+publishingwizard v.20110202
+(NTUSER.DAT) Extract AddNetPlace\LocationMRU for Microsoft Publishing Wizard
+
+----------------------------------------
+putty v.20110204
+(NTUSER.DAT) Extracts the saved SshHostKeys for PuTTY.
+
+----------------------------------------
+rdphint v.20090715
+(NTUSER) Gets hosts logged onto via RDP and the Domain\Username
+
+----------------------------------------
+realplayer6 v.20080324
+(NTUSER.DAT) Gets user's RealPlayer v6 MostRecentClips(Default) values
+
+----------------------------------------
+realvnc v.20091125
+(NTUSER.DAT) Gets user's RealVNC MRU listing
+
+----------------------------------------
+recentdocs v.20100405
+(NTUSER.DAT) Gets contents of user's RecentDocs key
+
+----------------------------------------
+rootkit_revealer v.20110204
+(NTUSER.DAT) Extracts the EULA value for Sysinternals Rootkit Revealer.
+
+----------------------------------------
+runmru v.20080324
+(NTUSER.DAT) Gets contents of user's RunMRU key
+
+----------------------------------------
+----------------------------------------
+shellfolders v.20090115
+(NTUSER.DAT) Retrieve user Shell Folders values
+
+----------------------------------------
+----------------------------------------
+snapshot_viewer v.20110210
+(NTUSER.DAT) Extracts Recent File List for Microsoft Snapshot Viewer.
+
+----------------------------------------
+ssh_host_keys v.20120809
+(NTUSER.DAT) Extracts Putty/WinSCP SSH Host Keys
+
+----------------------------------------
+startmenuinternetapps_cu v.20101219
+(NTUSER.DAT) Start Menu Internet Applications info current user
+
+----------------------------------------
+startpage v.20100330
+(NTUSER.DAT) Gets contents of user's StartPage key
+
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Launching tsclient v.20120827
+(NTUSER.DAT) Displays contents of user's Terminal Server Client\Default key
+
+----------------------------------------
+typedpaths v.20100330
+(NTUSER.DAT) Gets contents of user's typedpaths key
+
+----------------------------------------
+typedurls v.20080324
+(NTUSER.DAT) Returns contents of user's TypedURLs key.
+
+----------------------------------------
+typedurlstime v.20120613
+(NTUSER.DAT) Returns contents of user's TypedURLsTime key.
+
+----------------------------------------
+unreadmail v.20100218
+(NTUSER.DAT) Gets contents of Unreadmail key
+
+----------------------------------------
+user_run v.20140115
+(NTUSER.DAT) [Autostart] Get autostart key contents from NTUSER.DAT hive
+
+----------------------------------------
+user_win v.20080415
+(NTUSER.DAT)  -- 
+
+----------------------------------------
+----------------------------------------
+userinfo v.20130513
+(NTUSER.DAT) Gets contents of MS Office UserInfo values
+
+----------------------------------------
+userlocsvc v.20090411
+(NTUSER.DAT) Displays contents of User Location Service\Client key
+
+----------------------------------------
+vista_bitbucket v.20080420
+(NTUSER.DAT) Get BitBucket settings from Vista via NTUSER.DAT
+
+----------------------------------------
+vmplayer v.20110204
+(NTUSER.DAT) Extracts full filepath for recent VMware Player VM images.
+
+----------------------------------------
+vmware_vsphere_client v.20110204
+(NTUSER.DAT) Extract recent connections list for VMware vSphere Client.
+
+----------------------------------------
+vnchookapplicationprefs v.20110208
+(NTUSER.DAT) Get VNCHooks Application Prefs list
+
+----------------------------------------
+vncviewer v.20121231
+(NTUSER.DAT) Get VNCViewer system list
+
+----------------------------------------
+wallpaper v.200800810
+(NTUSER.DAT) Parses Wallpaper MRU Entries
+
+----------------------------------------
+warcraft3 v.20110202
+(NTUSER.DAT) Extract usernames for Warcraft 3.
+
+----------------------------------------
+----------------------------------------
+winlogon_u v.20130425
+(NTUSER.DAT) Get values from the user's WinLogon key
+
+----------------------------------------
+winrar v.20080819
+(NTUSER.DAT) Get WinRAR\ArcHistory entries
+
+----------------------------------------
+winscp_sessions v.20120809
+(NTUSER.DAT) Extracts WinSCP stored session data
+
+----------------------------------------
+winvnc v.20110202
+(NTUSER.DAT) Extracts the encrypted password for WinVNC.
+
+----------------------------------------
+winzip v.20140730
+(NTUSER.DAT) Get WinZip extract and filemenu values
+
+----------------------------------------
+wordwheelquery v.20100330
+(NTUSER.DAT) Gets contents of user's WordWheelQuery key
+
+----------------------------------------
+yahoo_cu v.20101219
+(NTUSER.DAT) Yahoo Messenger parser
+
+----------------------------------------
+ALERT: cmd_shell: Clients\StartMenuInternet\IExplore.exe\shell\open\command warning: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+ALERT: cmd_shell: Clients\StartMenuInternet\IExplore.exe\shell\open\command warning: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+ALERT: cmd_shell: Clients\StartMenuInternet\IExplore.exe\shell\open\command warning: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+Alert: svc: clr_optimization_v2.0.50727_32 has a WOW64 value: 1
+Alert: svc: gupdate has a WOW64 value: 1
+Alert: svc: gupdatem has a WOW64 value: 1
+Alert: svc: gusvc has a WOW64 value: 1
+Alert: svc: PerfHost has a WOW64 value: 1
+Alert: svc: WIMMount has a WOW64 value: 1
+ALERT: svcdll: Relative path detected: WinHttpAutoProxySvc -> winhttp.dll
+ALERT: svcdll: wbem found in path: Winmgmt -> %SystemRoot%\system32\wbem\WMIsvc.dll
+Alert: svc: clr_optimization_v2.0.50727_32 has a WOW64 value: 1
+Alert: svc: gupdate has a WOW64 value: 1
+Alert: svc: gupdatem has a WOW64 value: 1
+Alert: svc: gusvc has a WOW64 value: 1
+Alert: svc: PerfHost has a WOW64 value: 1
+Alert: svc: WIMMount has a WOW64 value: 1
+ALERT: svcdll: Relative path detected: WinHttpAutoProxySvc -> winhttp.dll
+ALERT: svcdll: wbem found in path: Winmgmt -> %SystemRoot%\system32\wbem\WMIsvc.dll

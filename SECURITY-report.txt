@@ -1,0 +1,40 @@
+auditpol v.20121128
+(Security) Get audit policy from the Security hive file
+
+auditpol
+Policy\PolAdtEv
+LastWrite Time Thu Jan  1 00:00:00 1970 (UTC)
+
+Length of data: 138 bytes.
+0x00000000: 00 01 00 00 09 00 00 00 78 00 00 00 01 00 00 00  ........x.......
+0x00000010: 03 00 00 00 03 00 01 00 01 00 01 00 00 00 01 00  ................
+0x00000020: 00 00 00 00 00 00 03 00 00 00 00 00 00 00 00 00  ................
+0x00000030: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0x00000040: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00  ................
+0x00000050: 01 00 00 00 00 00 00 00 00 00 01 00 00 00 01 00  ................
+0x00000060: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+0x00000070: 00 00 00 00 00 00 00 00 05 00 09 00 0c 00 03 00  ................
+0x00000080: 04 00 06 00 06 00 04 00 04 00                    ..........
+**Auditing is NOT enabled.
+----------------------------------------
+lsasecrets v.20140408
+(Security) TEST - Get update times for LSA Secrets
+
+Domain secret - $MACHINE.ACC
+$MACHINE.ACC key not found
+----------------------------------------
+polacdms v.20100531
+(Security) Get local machine SID from Security hive
+
+PolAcDmS
+Policy\PolAcDmS
+LastWrite Time Thu Jan  1 00:00:00 1970 (UTC)
+
+Machine SID: S-1-5-21-1748602848-2080315569-3795756862
+
+PolPrDmS
+Policy\PolPrDmS
+LastWrite Time Thu Jan  1 00:00:00 1970 (UTC)
+
+Primary Domain SID: S-1-5-
+----------------------------------------
